@@ -1,0 +1,21 @@
+From cce0969c4c971a4aca0f8bb38bbf78c4faed4023 Mon Sep 17 00:00:00 2001
+From: mwb89 <895401428@qq.com>
+Date: Sun, 12 Jun 2016 22:28:06 +0800
+Subject: [PATCH] no message
+
+---
+ update_date.txt | 1 -
+ 1 file changed, 1 deletion(-)
+ delete mode 100644 update_date.txt
+
+diff --git a/update_date.txt b/update_date.txt
+deleted file mode 100644
+index 51563b5..0000000
+--- a/update_date.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-update date 20160612
+\ No newline at end of file
+-- 
+1.8.4.2
+
